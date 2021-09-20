@@ -3,15 +3,15 @@ body
   background-color: #F2F2F2;
   font-family: cambria;
 }
-#he1{
+#topheading{
   background-color: #402121;
   color: white;
 }
-.div1{
+.intro{
     height: 200px;
     width: 100%;
 }
-.div2{
+.indexlinks{
   text-align: center;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -23,13 +23,17 @@ img{
   width: 173px;
   margin: 10px;
 }
-#p1{
+#undername{
   font-size: 110%;
 }
-h2{
+.links{
   background-color: #D9A3A3;
 }
 .div2{
   height: auto;
+  text-align: center;
+}
+.edheading, .cheading, .hheading{
+  background-color: #D9A3A3;
   text-align: center;
 }
